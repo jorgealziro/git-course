@@ -1,6 +1,6 @@
 # Repo lixo
 
-![](./dilbert.png)
+![kkk git comedia](./dilbert.png)
 
 Este repositorio é pra aprendizado tio
 
